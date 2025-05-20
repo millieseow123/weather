@@ -1,3 +1,5 @@
+A responsive weather app built with Next.js, TypeScript, and MUI. Features current weather data, search with history, and light/dark theme toggle with dynamic illustrations.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
